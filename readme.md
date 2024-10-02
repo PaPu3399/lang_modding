@@ -100,4 +100,4 @@ Russian is transliterated with a modified version of GOST 7.79-2000 A (ISO 9:199
 - Ь	ь &nbsp; &nbsp;→ &nbsp; &nbsp;'
 - Э	э &nbsp; &nbsp;→ &nbsp; &nbsp;È è
 - Ю	ю &nbsp; &nbsp;→ &nbsp; &nbsp;Û û
-- Я	я &nbsp; &nbsp;→ &nbsp; &nbsp;Â â
+- Я	я &nbsp; &nbsp;→ &nbsp; &nbsp;Â â 
